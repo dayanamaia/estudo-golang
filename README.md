@@ -23,6 +23,7 @@
 * [An Introduction to Programming in Go.](http://www.golang-book.com/books/intro)
 * [Packages](https://golang.org/pkg/)
 * [The Go Playground](https://play.golang.org/)
+* [Awesome Go](https://github.com/avelino/awesome-go)
 * [Building Web Apps with Go](https://codegangsta.gitbooks.io/building-web-apps-with-go/content/)
 * [Practical Cryptography With Go](https://leanpub.com/gocrypto/read)
 * [50 Shades of Go: Traps, Gotchas, and Common Mistakes for New Golang Devs](http://devs.cloudimmunity.com/gotchas-and-common-mistakes-in-go-golang/)
