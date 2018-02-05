@@ -8,8 +8,8 @@
 - [Hello Word](https://gobyexample.com/hello-world)
 - [Links uteis](#links-uteis)
 - [Cursos](#cursos)
-- Por que usar Go?
-- Por que não usar Go?
+- [Por que usar Go?](#por-que-usar-go)
+- [Por que não usar Go?](#por-que-n%C3%A3o-usar-go)
 
 ## Links uteis
 
