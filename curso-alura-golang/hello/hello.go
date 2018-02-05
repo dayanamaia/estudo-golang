@@ -68,7 +68,7 @@ func initTracking() {
 	sites := readFile()
 
 	for i := 0; i < monitoring; i++ {
-		for _, site := range sites {
+		for i, site := range sites {
 			fmt.Println("Testando site", i, ":", site)
 			checkStatusCode(site)
 		}
